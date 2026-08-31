@@ -1,0 +1,35 @@
+# Vizualizacija scen VR/AR aplikacije
+
+## Scena 1: Raziskovanje spomenika
+
+**Opis:**
+
+Uporabnik se nahaja v virtualnem okolju spomenika M4 Sherman v Velenju. Pred seboj vidi tank in njegovo okolico, ki jo lahko prosto raziskuje.
+
+Uporabnik se lahko premika po prostoru in si ogleda tank iz različnih zornih kotov. V namiznem načinu se premika s tipkami WASD in pogleda z miško, v VR načinu pa uporablja levo igralno palčko za premikanje in desno za obračanje pogleda.
+
+Namen scene je uporabniku predstaviti virtualno okolje in omogočiti začetno raziskovanje spomenika.
+
+---
+
+## Scena 2: Vstop v tank in vožnja
+
+**Opis:**
+
+Uporabnik se približa tanku M4 Sherman in lahko vstopi vanj. Po vstopu prevzame nadzor nad tankom in ga lahko vozi po virtualnem okolju.
+
+Tank lahko pospešuje in zavira ter spreminja smer vožnje. V namiznem načinu se za upravljanje uporabljajo tipke W, S, A in D.
+
+Namen scene je omogočiti interaktivno uporabo tanka in uporabniku približati občutek upravljanja zgodovinskega vojaškega vozila v virtualnem okolju.
+
+---
+
+## Scena 3: Strelski pogled skozi teleskop M61
+
+**Opis:**
+
+Uporabnik se med upravljanjem tanka lahko prestavi v strelski pogled skozi teleskop M61. Na zaslonu se prikaže pogled skozi optiko skupaj z merilno mrežo.
+
+Uporabnik lahko z usmerjanjem pogleda oziroma miške spreminja smer, kamor je usmerjen top. Merilnik vsebuje tudi oznake za ocenjevanje razdalje.
+
+Namen scene je predstaviti eno izmed bolj interaktivnih funkcionalnosti tanka ter uporabniku omogočiti izkušnjo uporabe njegovega strelskega sistema v virtualnem okolju.
