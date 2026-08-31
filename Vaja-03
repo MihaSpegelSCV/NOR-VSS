@@ -1,0 +1,45 @@
+# Tehnična zasnova aplikacije
+
+## Tip aplikacije
+
+VR (Virtual Reality)
+
+Aplikacija je zasnovana kot VR aplikacija, v kateri uporabnik v celoti vstopi v virtualno okolje spomenika M4 Sherman v Velenju.
+
+## Uporabnikova prisotnost
+
+Uporabnik je prisoten v popolnoma virtualnem 3D okolju. Lahko se prosto premika po območju spomenika, si ogleduje tank in z njim interagira.
+
+V VR načinu uporabnik okolje opazuje skozi VR očala, pri čemer za premikanje uporablja levo igralno palčko, za obračanje pogleda pa desno igralno palčko.
+
+## Razvojno orodje
+
+Za razvoj aplikacije je uporabljen **WebXR** v kombinaciji s knjižnico **Three.js**.
+
+WebXR omogoča zagon aplikacije v načinu `immersive-vr` in povezavo z združljivimi VR očali ter kontrolerji. Aplikacija preveri, ali naprava podpira VR, nato pa omogoči vstop v VR način.
+
+Three.js je uporabljen za izdelavo in prikaz 3D okolja ter objektov aplikacije.
+
+## Ciljna naprava
+
+Ciljna naprava so **VR očala, ki podpirajo WebXR**, predvsem Meta Quest.
+
+Aplikacija je izdelana kot spletna VR aplikacija, zato za delovanje ne potrebuje klasične namestitve aplikacije na računalnik. Uporabnik jo lahko zažene v združljivem spletnem brskalniku, ki podpira WebXR.
+
+Aplikacija podpira tudi namizni način, kjer lahko uporabnik okolje raziskuje s tipkovnico in miško.
+
+## Način interakcije
+
+Glavni način interakcije v VR načinu so **VR kontrolerji**.
+
+* **Lev gumb** – premikanje uporabnika.
+* **Desni gumb** – obračanje pogleda.
+* **Interakcija s tankom** – uporabnik se približa tanku in vanj vstopi.
+* **Upravljanje tanka** – v namiznem načinu W/S za premikanje naprej oziroma nazaj in A/D za obračanje.
+* **Strelski pogled** – uporabnik lahko aktivira pogled skozi teleskop M61 in usmerja top.
+
+## Razvojno okolje
+
+Aplikacija je bila razvita kot spletni projekt z uporabo HTML, CSS in JavaScript. Za 3D grafiko je uporabljena knjižnica Three.js, za VR funkcionalnost pa WebXR API.
+
+Razvojno okolje je zato prilagojeno izdelavi spletnih 3D in VR aplikacij, pri čemer je mogoče aplikacijo testirati tako v običajnem namiznem načinu kot tudi z uporabo VR naprave.
