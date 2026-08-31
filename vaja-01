@@ -1,0 +1,60 @@
+# M4 Sherman – VR izkušnja spomenika v Velenju
+
+## Tip aplikacije
+
+VR (Virtual Reality)
+
+Aplikacija je zasnovana kot virtualna predstavitev spomenika tanka M4 Sherman v Velenju. Uporabnik se lahko v virtualnem okolju prosto premika in raziskuje okolico spomenika. Aplikacija podpira tudi uporabo VR očal preko tehnologije WebXR.
+
+## Problem ali potreba
+
+Namen aplikacije je omogočiti uporabniku interaktivno in bolj doživeto spoznavanje spomenika M4 Sherman v Velenju.
+
+Klasičen ogled spomenika uporabniku omogoča predvsem vizualni ogled tanka od zunaj. Z uporabo virtualne resničnosti pa lahko uporabnik okolico raziskuje na interaktiven način, se približa tanku, vstopi vanj in ga tudi upravlja.
+
+Aplikacija tako združuje predstavitev lokalne kulturne in zgodovinske znamenitosti z interaktivno VR izkušnjo.
+
+## Ciljna skupina
+
+Ciljna skupina so predvsem:
+
+* obiskovalci in prebivalci Velenja,
+* ljubitelji vojaške zgodovine in tehnike,
+* uporabniki VR očal,
+* uporabniki, ki želijo spomenik raziskati na interaktiven način.
+
+Aplikacija je primerna tudi kot predstavitev lokalne zgodovinske znamenitosti v izobraževalnem okolju.
+
+## Primer uporabe
+
+Uporabnik zažene aplikacijo in se znajde v virtualni rekonstrukciji območja spomenika M4 Sherman v Velenju.
+
+Najprej lahko prosto raziskuje okolico in si ogleda spomenik iz različnih zornih kotov. Ko se približa tanku, lahko vanj vstopi. Po vstopu lahko tank upravlja in se z njim premika po virtualnem okolju.
+
+Uporabnik lahko prav tako aktivira strelski pogled oziroma pogled skozi teleskop M61 ter obrača oziroma usmerja top. Aplikacija omogoča tudi različne svetlobne pogoje, kot so dnevna svetloba, zlata ura, oblačno vreme in noč.
+
+## Osnovne funkcionalnosti
+
+Glavne funkcionalnosti aplikacije so:
+
+* prosto premikanje po virtualnem okolju,
+* raziskovanje območja spomenika M4 Sherman,
+* približevanje in vstop v tank,
+* vožnja tanka,
+* obračanje in usmerjanje topa,
+* pogled skozi strelski teleskop M61,
+* različni načini osvetlitve okolja,
+* spreminjanje smeri sončne svetlobe,
+* nočni način z osvetlitvijo tanka,
+* podpora za VR krmilnike,
+* premikanje z levo igralno palčko in obračanje z desno igralno palčko v VR načinu.
+
+Pri uporabi brez VR očal je mogoče okolje raziskovati s tipkovnico in miško, pri čemer se uporabnik premika s tipkami WASD, tank pa upravlja s tipkami W, S, A in D.
+
+## Izbrana platforma
+
+Meta Quest / WebXR
+
+Aplikacija uporablja tehnologijo WebXR, ki omogoča uporabo aplikacije v načinu immersive VR. Sistem preveri podporo za VR in uporabniku omogoči vstop v VR način, če je naprava združljiva.
+
+Za izdelavo 3D okolja je uporabljena knjižnica Three.js, aplikacija pa je izvedena kot spletna aplikacija.
