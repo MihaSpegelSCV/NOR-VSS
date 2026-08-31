@@ -2,7 +2,7 @@
 
 ## Scena 1: Raziskovanje spomenika
 
-**Opis:**
+Opis:
 
 Uporabnik se nahaja v virtualnem okolju spomenika M4 Sherman v Velenju. Pred seboj vidi tank in njegovo okolico, ki jo lahko prosto raziskuje.
 
@@ -14,7 +14,7 @@ Namen scene je uporabniku predstaviti virtualno okolje in omogočiti začetno ra
 
 ## Scena 2: Vstop v tank in vožnja
 
-**Opis:**
+Opis:
 
 Uporabnik se približa tanku M4 Sherman in lahko vstopi vanj. Po vstopu prevzame nadzor nad tankom in ga lahko vozi po virtualnem okolju.
 
@@ -26,7 +26,7 @@ Namen scene je omogočiti interaktivno uporabo tanka in uporabniku približati o
 
 ## Scena 3: Strelski pogled skozi teleskop M61
 
-**Opis:**
+Opis:
 
 Uporabnik se med upravljanjem tanka lahko prestavi v strelski pogled skozi teleskop M61. Na zaslonu se prikaže pogled skozi optiko skupaj z merilno mrežo.
 
